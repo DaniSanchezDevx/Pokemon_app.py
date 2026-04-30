@@ -1,6 +1,5 @@
 # Pokémon Visualizador - Explora la Franquicia Pokémon 
 
-[![Imagen de Pokémon](https://raw.githubusercontent.com/DaanniiDAM/Pokemon_app/main/sprites/Pikachu.png)](https://pokeapi.co/api/v2/pokemon/pikachu)
 
 ## Descripción
 
@@ -46,7 +45,7 @@ Este proyecto es una aplicación interactiva escrita en Python que te permite ex
 
 ## Contacto
 
-*   Repositorio de GitHub: [https://github.com/DaanniiDAM/Pokemon_app](https://github.com/DaanniiDAM/Pokemon_app)
+*   Repositorio de GitHub: [https://github.com/DaanniiDAM/Pokemon_app](https://github.com/DaanniiDAM/Pokemon_app.py)
 
 ## Licencia
 
